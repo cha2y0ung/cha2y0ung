@@ -1,10 +1,11 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha2y0ung)](https://github.com/cha2y0ung/github-readme-stats)
 
 <!--
 **cha2y0ung/cha2y0ung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cha2y0ung)](https://github.com/cha2y0ung/github-readme-stats)
+
 
 
 
