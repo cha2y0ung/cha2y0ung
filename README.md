@@ -17,7 +17,7 @@
   <a href="프로젝트소개 노션사이트"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
   <a href="https://solved.ac/cha2y0ung"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cha2y0ung"/></a>
  <a href="https://lucesicut-stellae.tistory.com/"><img src="https://img.shields.io/badge/cha2y0ung-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://crystalline-alarm-3c6.notion.site/Portfolio-24a7f8a9f21347f08d5a0369d4322605><img src="https://img.shields.io/badge/cha2y0ung-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://crystalline-alarm-3c6.notion.site/Portfolio-24a7f8a9f21347f08d5a0369d4322605"><img src="https://img.shields.io/badge/cha2y0ung-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
  
 </div>
 
@@ -36,7 +36,7 @@ Double Major : Statistics<br>
 
 | Period                  | Description                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------- |
-| 2023.02 ~ 2024.01(예정) | 멋쟁이 사자처럼 [LikeLion](https://www.likelion.net/) 11기 운영진(백엔드)      |
+| 2023.02 ~ ing.          | 멋쟁이 사자처럼 [LikeLion](https://www.likelion.net/) 11기 운영진(백엔드 파트장)      |
 | 2022.09 ~ ing           | 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://sopt.org/) 31기 Server YB       |
 | 2022.03 ~ 2023.01       | 멋쟁이 사자처럼 [LikeLion](https://www.likelion.net/) 10기 아기사자(백엔드)|
 
