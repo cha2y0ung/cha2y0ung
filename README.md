@@ -35,7 +35,7 @@ Double Major : Statistics<br>
 | Period                  | Description                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------- |
 | 2023.02 ~ ing.          | 멋쟁이 사자처럼 [LikeLion](https://www.likelion.net/) 11기 운영진(백엔드 파트장)      |
-| 2022.09 ~ ing           | 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://sopt.org/) 31기 Server YB       |
+| 2022.09 ~ 2023.01           | 대학생 연합 IT 벤처 창업 동아리 [SOPT](https://sopt.org/) 31기 Server YB       |
 | 2022.03 ~ 2023.01       | 멋쟁이 사자처럼 [LikeLion](https://www.likelion.net/) 10기 아기사자(백엔드)|
 
 <br>
