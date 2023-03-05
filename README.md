@@ -11,11 +11,6 @@
   ### 🐣 ChaeYoung 🐥 
   
   ---
-  
-  <a href="프로젝트소개 노션사이트"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
-  <a href="https://solved.ac/cha2y0ung"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=cha2y0ung"/></a>
- <a href="https://lucesicut-stellae.tistory.com/"><img src="https://img.shields.io/badge/cha2y0ung-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
-  <a href="https://crystalline-alarm-3c6.notion.site/Portfolio-24a7f8a9f21347f08d5a0369d4322605"><img src="https://img.shields.io/badge/cha2y0ung-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
  
 </div>
 
