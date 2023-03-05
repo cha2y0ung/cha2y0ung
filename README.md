@@ -4,8 +4,6 @@
 </h3>
 <br>
 
-<br>
-
 ## 🎓 Education
 
 Ewha Univ. <br>
